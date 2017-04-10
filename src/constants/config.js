@@ -1,0 +1,1 @@
+export const REACT_APP_GRAPHQL_ENDPOINT = 'https://api.graph.cool/simple/v1/cj05qaomu18wk0184r4k3x63j';
